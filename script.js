@@ -375,9 +375,9 @@ if (mainContent) {
 
 // Console welcome message
 console.log(`
-%cMyelin Smart Reply
-%cAI-powered email assistant that helps you write better replies faster.
-%cVisit https://myelin.github.io for more information.
+%cMyelin AI
+%cDeveloping cutting-edge AI solutions that transform how businesses operate and communicate.
+%cVisit https://myelinai.github.io for more information.
 
 `, 
 'color: #667eea; font-size: 24px; font-weight: bold;',
